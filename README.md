@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF"><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;Have+a+nice+day!&center=true&size=30&color=F7F3EF"><br>
   </a>
 </h1>
 
