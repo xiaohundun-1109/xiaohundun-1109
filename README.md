@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I’m currently a student in SEU
-- 🌱 I’m currently learning some front-end development technology
-- ⚡ Fun fact: flowers! flowers! flowers! 
+- 🔭 
+- 🌱 
+
 
 
 
